@@ -1,7 +1,7 @@
-#Wed Dec 07 01:17:25 PST 2016
-base.0=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e4f2aa8a762656e3688f8b7e509a358f829d18a4
+#Wed Dec 07 02:05:01 PST 2016
+base.0=C\:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_615601d6be95cb55f95dd28ed130f7d537d2c497
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c73e529a3150b1363ddcf0c936b75415e9708fe8\\classes.dex
-base.1=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c73e529a3150b1363ddcf0c936b75415e9708fe8
-file.0=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e4f2aa8a762656e3688f8b7e509a358f829d18a4\\classes.dex
+file.1=C\:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5f0e1a3778fca6bfe164713f08003004d51b698\\classes.dex
+base.1=C\:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5f0e1a3778fca6bfe164713f08003004d51b698
+file.0=C\:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_615601d6be95cb55f95dd28ed130f7d537d2c497\\classes.dex

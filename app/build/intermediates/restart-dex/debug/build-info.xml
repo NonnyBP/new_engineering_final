@@ -5,32 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="99019051114533"
-    token="5077268680170806239"
+    timestamp="101866357136608"
+    token="7767088179513448824"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="472" />
+        duration="1124" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="242" />
+        duration="745" />
     <task
         name="verifier"
-        duration="77" />
+        duration="252" />
 
     <artifact
-        location="C:\Users\jdcastellanosbp\Desktop\Speedshield\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\jdcastellanosbp\Documents\GitHub\new_engineering_final\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="99019051114533"
+        timestamp="101866357136608"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\jdcastellanosbp\Desktop\Speedshield\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\jdcastellanosbp\Documents\GitHub\new_engineering_final\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

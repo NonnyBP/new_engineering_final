@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
-        "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\menu\\menu_profile.xml"
+        "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rewards.xml",
+        "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\menu\\menu_rewards.xml"
     },
     {
-        "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rewards.xml",
-        "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\menu\\menu_rewards.xml"
+        "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\menu\\menu_profile.xml"
     }
 ]
