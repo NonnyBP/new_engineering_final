@@ -236,10 +236,6 @@
         "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_profile.xml",
-        "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\layout\\content_profile.xml"
-    },
-    {
         "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
     },

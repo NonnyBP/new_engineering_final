@@ -22,13 +22,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.frank551.speedshield.profile"
-            android:label="@string/title_activity_profile"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name="com.example.frank551.speedshield.rewards"
             android:label="@string/title_activity_rewards"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.frank551.speedshield.profile" />
     </application>
 
 </manifest>

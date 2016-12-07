@@ -36,6 +36,10 @@
         "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
     },
     {
+        "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speed_limit.png",
+        "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\drawable-xhdpi\\speed_limit.png"
+    },
+    {
         "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_home3.png",
         "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_home3.png"
     },

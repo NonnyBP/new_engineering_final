@@ -46,5 +46,9 @@
     {
         "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_home1.png",
         "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\speed_limit.png",
+        "source": "C:\\Users\\jdcastellanosbp\\Documents\\GitHub\\new_engineering_final\\app\\src\\main\\res\\drawable-mdpi\\speed_limit.png"
     }
 ]
