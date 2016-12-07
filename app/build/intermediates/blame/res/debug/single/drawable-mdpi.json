@@ -16,6 +16,10 @@
         "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home.png"
     },
     {
+        "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_reward1.png",
         "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-mdpi\\ic_action_reward1.png"
     },

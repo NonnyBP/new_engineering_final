@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="cb17d8038f2a26d226c9ec6aed887a6e866be02e">
+        sha1="2c211a276cdb765c33ce5f8cd7213011b64e9c27">
         <dex dex="C:\Users\jdcastellanosbp\Desktop\Speedshield\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c73e529a3150b1363ddcf0c936b75415e9708fe8\classes.dex" />
     </item>
     <item
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5255750aad4e00b3cd0ed1570188780a6d721be7">
+        sha1="5e199191c60c2521b1fa13a4338e33e1f0b72ab9">
         <dex dex="C:\Users\jdcastellanosbp\Desktop\Speedshield\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4f2aa8a762656e3688f8b7e509a358f829d18a4\classes.dex" />
     </item>
     <item

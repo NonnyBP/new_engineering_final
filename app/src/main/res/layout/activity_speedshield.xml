@@ -60,4 +60,22 @@
         </LinearLayout>
     </LinearLayout>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher"
+        android:id="@+id/logoView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Numbers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logoView"
+        android:layout_alignRight="@+id/logoView"
+        android:layout_alignEnd="@+id/logoView"
+        android:layout_marginTop="51dp"
+        android:id="@+id/pointsView" />
+
 </RelativeLayout>

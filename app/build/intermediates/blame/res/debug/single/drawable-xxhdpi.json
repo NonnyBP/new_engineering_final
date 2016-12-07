@@ -28,6 +28,10 @@
         "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home3.png"
     },
     {
+        "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_speedshield.png",
         "source": "C:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_speedshield.png"
     },
