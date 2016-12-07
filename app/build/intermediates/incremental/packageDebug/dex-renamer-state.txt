@@ -1,0 +1,7 @@
+#Wed Dec 07 00:12:14 PST 2016
+base.0=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e4f2aa8a762656e3688f8b7e509a358f829d18a4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c73e529a3150b1363ddcf0c936b75415e9708fe8\\classes.dex
+base.1=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c73e529a3150b1363ddcf0c936b75415e9708fe8
+file.0=C\:\\Users\\jdcastellanosbp\\Desktop\\Speedshield\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e4f2aa8a762656e3688f8b7e509a358f829d18a4\\classes.dex
