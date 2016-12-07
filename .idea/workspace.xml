@@ -38,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Speedshield.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Speedshield.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/frank551/speedshield/Speedshield.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_speedshield.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_speedshield.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_speedshield.xml">
           <provider editor-type-id="text-editor">
             <state relative-caret-position="952">
@@ -2348,14 +2348,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/frank551/speedshield/Speedshield.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_speedshield.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -2365,6 +2357,14 @@
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/frank551/speedshield/Speedshield.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
